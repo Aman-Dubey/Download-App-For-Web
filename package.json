@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx tailwindcss -i ./src/input.css -o ./src/output.css",
-    "watch": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+    "start": "npx tailwindcss -i ./input.css -o ./css/style.css",
+    "watch": "npx tailwindcss -i ./input.css -o ./css/style.css --watch"
   },
   "keywords": [],
   "author": "",
