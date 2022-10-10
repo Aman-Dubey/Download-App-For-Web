@@ -24,28 +24,25 @@
 ## Mobile
 
 ### 1st
-![1](./assets/screensots/M1.png)
-
-### 2nd
 ![1](./assets/screensots/M2.png)
 
-### 3rd
+### 2nd
 ![1](./assets/screensots/M3.png)
 
-### 4th
+### 3rd
 ![1](./assets/screensots/M4.png)
 
-### 5th
+### 4th
 ![1](./assets/screensots/M5.png)
 
-### 6th
+### 5th
 ![1](./assets/screensots/M6.png)
 
-### 7th
+### 6th
 ![1](./assets/screensots/M7.png)
 
-### 8th
+### 7th
 ![1](./assets/screensots/M8.png)
 
-### 9th
+### 8th
 ![1](./assets/screensots/M9.png)
