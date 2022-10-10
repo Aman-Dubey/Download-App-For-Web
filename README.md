@@ -3,21 +3,18 @@
 ## Desktop
 
 ### 1st
-![1](./assets/screensots/D1.png)
-
-### 2nd
 ![1](./assets/screensots/D2.png)
 
-### 3rd
+### 2nd
 ![1](./assets/screensots/D3.png)
 
-### 4th
+### 3rd
 ![1](./assets/screensots/D4.png)
 
-### 5th
+### 4th
 ![1](./assets/screensots/D5.png)
 
-### 6th
+### 5th
 ![1](./assets/screensots/D6.png)
 
 
