@@ -1,6 +1,6 @@
 # Screenshot
 
-##Desktop
+## Desktop
 
 ### 1st
 ![1](./assets/screensots/D1.png)
@@ -21,7 +21,7 @@
 ![1](./assets/screensots/D6.png)
 
 
-##Mobile
+## Mobile
 
 ### 1st
 ![1](./assets/screensots/M1.png)
